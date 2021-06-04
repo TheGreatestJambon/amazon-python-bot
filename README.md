@@ -25,5 +25,3 @@ Try not to mess with the wait time variable, as setting it too low could cause t
 Firefox will instantly recognise that the browser is being remotely controlled. Like I said before, unless you want to purchase and incorporate premium proxies, this is inevitable. Don't worry however, this will not lead to you getting banned on Amazon itself.
 
 Enjoy!
-
-Props to JahkRCode.
