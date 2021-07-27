@@ -24,6 +24,6 @@ If you enter an incorrect user or password, the program will also terminate.
 Try not to mess with the wait time variable, as setting it too low could cause the program to fail due to an element being looked for on the next page before it has loaded. You have been warned.
 Firefox will instantly recognise that the browser is being remotely controlled. Like I said before, unless you want to purchase and incorporate premium proxies, this is inevitable. Don't worry however, this will not lead to you getting banned on Amazon itself.
 
-You will need to look up how to install python 3 and the required packages. IDEs like PyCharm will make this easier by letting you install them straight from the IDE itself. 
+You will need to look up how to install python 3 and the required packages. IDEs like PyCharm will make this easier by letting you install them straight from the IDE itself as a solution to the missing package errors you will inevitably recieve. (Such as the Selenium API for example) . 
 
 Enjoy!
